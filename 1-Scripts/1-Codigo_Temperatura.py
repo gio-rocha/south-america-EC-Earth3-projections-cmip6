@@ -75,7 +75,7 @@ conversao_hist= temp_hist - 273.15
 #Calculando a média temporal
 media_hist = conversao_hist.mean(dim='time')
 
-#------------------------------------- MÉDIA CLIMATOLÓGICA--------------------------------
+#------------------------------------- MUDANÇA-------------------------------
 #Calculando a mudança na temperatura de acordo com o SSP2
 dif_ssp2= media_futuro_ssp2 - media_hist
 
