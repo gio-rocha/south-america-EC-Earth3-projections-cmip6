@@ -29,13 +29,11 @@ fonte_gl={'family':'Arial','size': 16, 'color': 'black'}
 cbar_kwargs={'orientation':'horizontal','fraction':0.045,'pad':0.01,'extend':'neither'}
 
 # Selecionando os dados da escala (início, fim, intervalo)
-escala_pr=np.arange(-60,70,10)
+escala_pr=np.arange(-40,70,10)
 
-tick_pr=np.arange(-60,70,10)
+tick_pr=np.arange(-40,70,10)
 
-#A qtd de cores contida nesta lista faz com que a cor cinza seja exibida nas áreas onde a mudança na precipitação varia entre -10 e +10%
-  #Para que isto não ocorra, basta adicionar mais 1 cor
-colors_pr= ['#653c1a','#846348','#b29e8d','#c8ac7b','#e7dbc6','#9aa2a4','#b8d4d0','#64c8b7','#54a297','#38837d','#06645c']
+colors_pr= ['#653c1a','#846348','#b29e8d','#c8ac7b','#9aa2a4','#b8d4d0','#64c8b7','#54a297','#38837d','#06645c']
 
 cmap_pr= ListedColormap(colors_pr)
 
