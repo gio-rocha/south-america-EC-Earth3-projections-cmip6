@@ -9,9 +9,11 @@
  - Generate spatial maps for SSP2-4.5 and SSP5-8.5 scenarios (2081-2100)
 
 # Data Sources
- - *Original CMIP6 data* [Access the data](https://esgf-node.ipsl.upmc.fr/search/cmip6-ipsl/)
- - 1 CMIP6 model output: EC-Earth3
- - *AR6 Reference Regions* [Download Data](https://github.com/IPCC-WG1/Atlas/blob/main/reference-regions/IPCC-WGI-reference-regions-v4_shapefile.zip)
+ - *Original CMIP6 data*
+  - 🔗[Access the data](https://esgf-node.ipsl.upmc.fr/search/cmip6-ipsl/)
+ - CMIP6 model output: EC-Earth3
+ - *AR6 Reference Regions*
+  - 🔗[Download Data](https://github.com/IPCC-WG1/Atlas/blob/main/reference-regions/IPCC-WGI-reference-regions-v4_shapefile.zip)
 
 
 # Tools and Libraries
