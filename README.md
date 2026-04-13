@@ -10,10 +10,10 @@
 
 # Data Sources
  - *Original CMIP6 data*
-  - 🔗[Access the data](https://esgf-node.ipsl.upmc.fr/search/cmip6-ipsl/)
+   - 🔗[Access the data](https://esgf-node.ipsl.upmc.fr/search/cmip6-ipsl/)
  - CMIP6 model output: EC-Earth3
  - *AR6 Reference Regions*
-  - 🔗[Download Data](https://github.com/IPCC-WG1/Atlas/blob/main/reference-regions/IPCC-WGI-reference-regions-v4_shapefile.zip)
+   - 🔗[Download Data](https://github.com/IPCC-WG1/Atlas/blob/main/reference-regions/IPCC-WGI-reference-regions-v4_shapefile.zip)
 
 
 # Tools and Libraries
